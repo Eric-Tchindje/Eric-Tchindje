@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric-Tchindje
-- 👀 I’m interested in Software engineering
+- 👀 I’m  a Software engineer
 - - 🌱 I’m currently learning Devops
 - 📫 How to reach me  eric.tchindje@kaeyros-analytics.com
 - 😄 Pronouns: He
