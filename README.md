@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eric-Tchindje
 - 👀 I’m  a Software engineer
 - - 🌱 I’m currently learning Devops
-- 📫 How to reach me  eric.tchindje@kaeyros-analytics.com
+- 📫 How to reach me  tchindjeeric61@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
