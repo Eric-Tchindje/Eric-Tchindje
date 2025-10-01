@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eric-Tchindje
-- 👀 I’m  a Data Engineer - Data Analytics 
-- - 🌱 I’m currently learning MLOps
+- 👀 I’m  a Machine learning Engineer - Data Analytics 
+- - 🌱 I’m currently learning MLOps, MCP and IA Agent
 - 📫 How to reach me  tchindjeeric61@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
